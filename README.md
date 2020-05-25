@@ -10,4 +10,4 @@ Clone the project. Delete the .git file. Install a virtual environment. Install 
 
 ## Deployment
 
-Create an app on heroku. Set the environment variblaes to an appropirate value. Go to the deploy option. Select deploy with github. Connect to your github repository. Connect. And then deploy the master (or whichever branch you want to deploy). 
+Create an app on heroku. Set the environment variblaes to an appropirate value. Go to the deploy option. Select deploy with github. Connect to your github repository. And then deploy the master (or whichever branch you want to deploy). 
